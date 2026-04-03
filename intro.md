@@ -4,8 +4,6 @@ Hi there. My name’s Davey.
 
 First things first: This video has plenty of chapters, so it’s easy to skip the stuff you already know, or that you’re simply not interested in. So please feel free. You won’t hurt my feelings. Much.
 
----
-
 ## Vanilla
 
 When you think of going on an adventure, what comes to mind? Constantly pausing the action and digging through menus? Lots and lots of menus? So you can replace your floating, disembodied hand with a sword? I mean, do you want a hand, or do you want a sword? Pick one. Don’t get greedy.
