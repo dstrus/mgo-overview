@@ -16,13 +16,13 @@ For now, let’s download Wabbajack.
 
 Once you’ve downloaded the executable, you will need to move it outside of your `📁 Downloads` folder before running it. I’ve created a `📁 Wabbajack` folder on my `C:\` drive, and I’ve already installed a previous version. I’ll just replace it with the one I just downloaded.
 
-## Sign In to Nexusmods Within Wabbajack
+## Sign in to Nexusmods within Wabbajack
 
 Launching the app will download the latest version if necessary, and then we can start using it. There’s a great big Get Started button, but before you do that, go to Settings and sign into Nexusmods, even if you don’t have a premium sub. Without being signed in, the automated requests will get you temporarily blocked over and over.
 
 With that done, you can click Browse Lists. This is where you’d find the list if it were listed. At the moment, it isn’t, so we’ll download it from Nexusmods.
 
-## Download the List From Nexusmods
+## Download the list from Nexusmods
 
 There is a [safe-for-work version](https://www.nexusmods.com/skyrimspecialedition/mods/107780), which has almost 20,000 downloads just on Nexus; and a [not-safe-for-work version](https://www.nexusmods.com/skyrimspecialedition/mods/107333) that has… over 400,000 downloads. Huh. Well, whichever you choose, just click the Manual download button. This is just the Wabbajack list that you’re downloading, without any of the actual mods, and it’s over 2 GB compressed. It is a 7-zip archive, and you’ll need to unpack it before using it, so first install [7-zip](https://www.7-zip.org/) if you don’t already have it.
 
