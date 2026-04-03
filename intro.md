@@ -22,7 +22,7 @@ I’m mostly here to talk about what happens after you install the list. I’ll 
 
 ## Why?
 
-I’m doing this because I played Mad God’s Overhaul for an embarrassingly long time without really taking advantage of what it offers. I could see that it looked very different from the original game, the skill trees had been overhauled, leveling up worked differently, but I continued to mostly play the old-fashioned way—poking around in menus, pointing at things and pressing the A button, like some kind of animal… or some kind of daedroth. I was missing some pretty fundamental stuff because I just didn’t know what the mod list included.
+I’m doing this because I played Mad God’s Overhaul for an embarrassingly long time without really taking advantage of what it offers. I could see that it looked very different from the original game, the skill trees had been overhauled, leveling up worked differently, but I continued to mostly play the old-fashioned way—poking around in menus, pointing at things and pressing the A button, like some kind of animal... or some kind of daedroth. I was missing some pretty fundamental stuff because I just didn’t know what the mod list included.
 
 And from the MGO Discord—which I waited far too long to join—I can see that lots of other folks miss out on, or are puzzled by, many of the same things. Even if you’re eager to learn, it’s hard to know where to start. So start here!
 

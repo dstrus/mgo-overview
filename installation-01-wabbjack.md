@@ -24,7 +24,7 @@ With that done, you can click Browse Lists. This is where you’d find the list 
 
 ## Download the list from Nexusmods
 
-There is a [safe-for-work version](https://www.nexusmods.com/skyrimspecialedition/mods/107780), which has almost 20,000 downloads just on Nexus; and a [not-safe-for-work version](https://www.nexusmods.com/skyrimspecialedition/mods/107333) that has… over 400,000 downloads. Huh. Well, whichever you choose, just click the Manual download button. This is just the Wabbajack list that you’re downloading, without any of the actual mods, and it’s over 2 GB compressed. It is a 7-zip archive, and you’ll need to unpack it before using it, so first install [7-zip](https://www.7-zip.org/) if you don’t already have it.
+There is a [safe-for-work version](https://www.nexusmods.com/skyrimspecialedition/mods/107780), which has almost 20,000 downloads just on Nexus; and a [not-safe-for-work version](https://www.nexusmods.com/skyrimspecialedition/mods/107333) that has... over 400,000 downloads. Huh. Well, whichever you choose, just click the Manual download button. This is just the Wabbajack list that you’re downloading, without any of the actual mods, and it’s over 2 GB compressed. It is a 7-zip archive, and you’ll need to unpack it before using it, so first install [7-zip](https://www.7-zip.org/) if you don’t already have it.
 
 ## Install Mad God's Overhaul
 
@@ -42,6 +42,6 @@ If installation fails, you can probably just try again. Doing so will not redown
 
 If there’s an error about a missing master file, that means there’s something wrong with your Skyrim VR installation, like the wrong version, or a file that’s missing or altered in some way. If you changed some files on purpose, you can always copy them somewhere before repairing your installation, but you will need the original, unaltered game files to use MGO.
 
-To repair the game files, find Skyrim VR in Steam, click the ⚙️ cog icon, and choose `Properties…`. Choose Installed Files from the left, and click `Verify integrity of game files`. That ought to get your installation back in shape. Once you’re finished, you can retry installation from Wabbajack.
+To repair the game files, find Skyrim VR in Steam, click the ⚙️ cog icon, and choose `Properties...`. Choose Installed Files from the left, and click `Verify integrity of game files`. That ought to get your installation back in shape. Once you’re finished, you can retry installation from Wabbajack.
 
 Once the installation process has finished—which, again, will be awhile—Wabbajack will give you the option of opening the installation folder in File Explorer or creating a shortcut. The shortcut that it creates cannot be directly pinned to the Start Menu, so I recommend creating your own shortcut. I also like to set a custom icon for the shortcut. I’ll walk you through how I do it.
