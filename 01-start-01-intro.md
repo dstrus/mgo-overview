@@ -8,7 +8,7 @@ First things first: This video has plenty of chapters, so it’s easy to skip th
 
 When you think of going on an adventure, what comes to mind? Constantly pausing the action and digging through menus? Lots and lots of menus? So you can replace your floating, disembodied hand with a sword? I mean, do you want a hand, or do you want a sword? Pick one. Don’t get greedy.
 
-And suppose you want to pick up a potion off of a shelf. To really feel like you’re there, you’d want to point in its general direction and press A, right? Just like real life!
+And suppose you want to pick up a potion off of a shelf. To feel like you’re really there, you’d want to point in its general direction and press A, right? Just like real life!
 
 ## Mad God's Overhaul
 
@@ -30,4 +30,4 @@ MGO includes somewhere in the neighborhood of 2,000 mods. You don’t need to be
 
 The old, traditional, less-immersive ways of doing these things are still there, so you don’t have to memorize all the new stuff at once—or ever. But if you don’t even know what’s possible, you won’t know where to start to make the gameplay more immersive and, dare I say, more fun.
 
-I’m not going to spend a lot of time on performance tuning. VR DaD has excellent videos on that subject, and while I know how to get it performing well on my machine, I’m probably not the best person to tell you how to tune it for your machine. That’s a really broad topic, and it’s just not what this video is about.
+I’m not going to spend a lot of time on performance tuning. [VR DaD has excellent videos](https://www.youtube.com/@VRDaD) on that subject, and while I know how to get it performing well on my machine, I’m probably not the best person to tell you how to tune it for your machine. That’s a really broad topic, and it’s just not what this video is about.
