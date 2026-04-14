@@ -28,6 +28,24 @@ With that done, you can click `Browse Lists`. This is where you’d find the lis
 
 There is a [safe-for-work version](https://www.nexusmods.com/skyrimspecialedition/mods/107780), which has almost 20,000 downloads just on Nexus; and a [not-safe-for-work version](https://www.nexusmods.com/skyrimspecialedition/mods/107333) that has... over 400,000 downloads. Huh. Well, whichever you choose, just click the `Manual` download button. This is just the Wabbajack list that you’re downloading, without any of the actual mods, and even that's over 2 GB compressed. It is a 7-zip archive, and you’ll need to unpack it before using it, so first install [7-zip](https://www.7-zip.org/) if you don’t already have it.
 
+## Double-check the requirements
+
+While you're on Nexusmods, this is a good time to double-check that all of [MGO's requirements are in place](https://www.nexusmods.com/skyrimspecialedition/articles/6779).
+
+UNABLE TO DOWNLOAD
+
+Set game to English
+Run Steam file validation
+Relog into Nexus in Wabbajack software
+
+**YOU MUST**
+* Have 32GB system memory, be using internal SSD and have a legit copy of the game from Steam
+* Download and install the latest [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+* Download and install the latest [.NET x64 run-time](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.11-windows-x64-installer)
+* Increase minimum virtual memory to 40GB or more ([screenshot](https://imgur.com/a/virtual-memory-DttXXhK)) 
+* Set shader cache to 10GB or more in Nvidia control panel (**TODO:** screenshot needed)
+* Move Skyrim out of C:\Program File folder to avoid issues with Antivirus and Defender (**TODO:** updated instructions)
+
 ## Install Mad God's Overhaul
 
 Once we’ve unzipped the list, we can return to Wabbajack. On the screen where you can browse the available lists, click `Install From Disk` instead. Find the uncompressed `.wabbajack` file, and open it.
